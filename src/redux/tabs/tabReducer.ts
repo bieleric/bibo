@@ -1,4 +1,4 @@
-import { SWITCH_TAB } from "./tabTypes"
+import { SWITCH_TAB } from './tabTypes';
 
 const initialState = {
     currentTab: 'books',

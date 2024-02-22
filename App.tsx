@@ -11,7 +11,6 @@ import { Provider } from 'react-redux';
 const Stack = createStackNavigator();
 
 export default function App() {
-
   return (
     <Provider store={store}>
       <View style={styles.appContainer}>
