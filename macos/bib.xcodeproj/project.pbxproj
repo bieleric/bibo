@@ -49,6 +49,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26F6D8952B8F1F3B00DEB6C5 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -61,6 +68,7 @@
 		5142014A2437B4B30078DB4F /* bib-macOS */ = {
 			isa = PBXGroup;
 			children = (
+				26F6D8952B8F1F3B00DEB6C5 /* Fonts */,
 				5142014B2437B4B30078DB4F /* AppDelegate.h */,
 				5142014C2437B4B30078DB4F /* AppDelegate.mm */,
 				514201512437B4B40078DB4F /* Assets.xcassets */,
@@ -78,7 +86,6 @@
 				3388D458738E9630FC85A5F8 /* Pods-bib-macOS.debug.xcconfig */,
 				2AB33C98D20ECEBF3F1318CC /* Pods-bib-macOS.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
